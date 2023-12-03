@@ -46,14 +46,14 @@
 	text-align: right;
 }
 
-a {
+/* a {
 	color: #000000;
 	text-decoration: none;
-}
+} */
 
-a:hover, a:active {
+/* a:hover, a:active {
 	text-decoration: underline;
-}
+} */
 
 a:hover {
 	color: #FF0000;
